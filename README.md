@@ -1,2 +1,3 @@
 # hello-world
-This is where I learn how to use GitHub
+I'm boring and predictable.  Things I like are: 
+dogs, cats, bikes, beer, and coffee; the order of which depends on the day, and the hour of the day.
